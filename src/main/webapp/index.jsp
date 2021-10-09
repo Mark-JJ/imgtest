@@ -32,7 +32,7 @@ width: 600px;
 <h1>黃俊傑 座號11號</h1>
 <hr>
 <!-- <div id='column1'> -->
-
+ssss
 <%-- <a href="<c:url value='/ch01/queryLottery.jsp'  />">問單一明牌-A</a><p/> --%>
 <%-- <a href="<c:url value='/ch01/queryLottery2.jsp' />">問多種明牌</a><p/> --%>
 <%-- <a href="<c:url value='/ch02/InsertMemberForm.jsp' />">加入會員</a><p/> --%>
